@@ -1,0 +1,15 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/robbiehanson/CocoaAsyncSocket" : {
+        "repositoryURL" : "https://github.com/robbiehanson/CocoaAsyncSocket",
+        "subpath" : "CocoaAsyncSocket-4db718c3"
+      },
+      "https://github.com/thecatalinstan/Criollo" : {
+        "repositoryURL" : "https://github.com/thecatalinstan/Criollo",
+        "subpath" : "Criollo-e3f5bbaa"
+      }
+    }
+  },
+  "version" : 1
+}

@@ -1,0 +1,4 @@
+module Criollo {
+    umbrella header "/Users/IOS/localhost/SwiftLocalhost/.build/checkouts/Criollo/Criollo/includes/Criollo/Criollo.h"
+    export *
+}

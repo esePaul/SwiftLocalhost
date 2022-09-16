@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1663363654, 177052974]
+build_end_time: [1663363654, 847229003]
+inputs:
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingReport.swift": !private [1663360205, 571718931]
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingServer.swift": !private [1663360205, 571928024]
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayload.swift": !private [1663360205, 572089433]
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayloadFactory.swift": !private [1663360205, 572249650]
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostPort.swift": !private [1663360205, 573259592]
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostRouter.swift": !private [1663360205, 573422908]
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServer.swift": !private [1663360205, 573528289]
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServerResponse.swift": !private [1663360205, 573684930]

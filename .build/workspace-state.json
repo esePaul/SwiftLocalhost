@@ -1,0 +1,44 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "cocoaasyncsocket",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/robbiehanson/CocoaAsyncSocket",
+          "name" : "CocoaAsyncSocket"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "dbdc00669c1ced63b27c3c5f052ee4d28f10150c",
+            "version" : "7.6.5"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "CocoaAsyncSocket"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "criollo",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/thecatalinstan/Criollo",
+          "name" : "Criollo"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "87c6d2fa753e1be3c8d1031a60129f652240ec1e",
+            "version" : "1.1.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Criollo"
+      }
+    ]
+  },
+  "version" : 5
+}

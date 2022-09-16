@@ -1,0 +1,4 @@
+module SwiftLocalhost {
+    header "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/SwiftLocalhost-Swift.h"
+    requires objc
+}

@@ -1,0 +1,217 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhostPackageTests.xctest/Contents/MacOS/SwiftLocalhostPackageTests",
+      "productName" : "SwiftLocalhostPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.SwiftLocalhost-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingReport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingServer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayload.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayloadFactory.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostPort.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostRouter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServerResponse.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwiftLocalhost",
+      "moduleOutputPath" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.swiftmodule",
+      "objects" : [
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingReport.swift.o",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingServer.swift.o",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayload.swift.o",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayloadFactory.swift.o",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostPort.swift.o",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostRouter.swift.o",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServer.swift.o",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServerResponse.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/SwiftLocalhost-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingReport.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingServer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayload.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayloadFactory.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostPort.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostRouter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServerResponse.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingReport.swift",
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingServer.swift",
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayload.swift",
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayloadFactory.swift",
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostPort.swift",
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostRouter.swift",
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServer.swift",
+        "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServerResponse.swift"
+      ],
+      "tempsPath" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SwiftLocalhostTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/Tests/SwiftLocalhostTests/SwiftLocalhostTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwiftLocalhostTests",
+      "moduleOutputPath" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhostTests.swiftmodule",
+      "objects" : [
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhostTests.build/SwiftLocalhostTests/SwiftLocalhostTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx11.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhostTests.build/SwiftLocalhostTests/SwiftLocalhostTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhostTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/IOS/localhost/SwiftLocalhost/Tests/SwiftLocalhostTests/SwiftLocalhostTests.swift"
+      ],
+      "tempsPath" : "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhostTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

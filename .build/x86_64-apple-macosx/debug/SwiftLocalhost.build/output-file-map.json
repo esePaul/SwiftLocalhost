@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/master.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingReport.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingReport.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingReport.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingReport~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingReport.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestLoggingServer.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingServer.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingServer.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestLoggingServer.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayload.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayload.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayload.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayload~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayload.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/GARequest/GARequestPayloadFactory.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayloadFactory.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayloadFactory.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayloadFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/GARequest/GARequestPayloadFactory.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostPort.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostPort.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostPort.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostPort~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostPort.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostRouter.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostRouter.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostRouter.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostRouter.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServer.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServer.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServer.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServer.swiftdeps"
+  },
+  "/Users/IOS/localhost/SwiftLocalhost/Sources/Localhost/LocalhostServerResponse.swift": {
+    "dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServerResponse.d",
+    "object": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServerResponse.swift.o",
+    "swiftmodule": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/IOS/localhost/SwiftLocalhost/.build/x86_64-apple-macosx/debug/SwiftLocalhost.build/Localhost/LocalhostServerResponse.swiftdeps"
+  }
+}
