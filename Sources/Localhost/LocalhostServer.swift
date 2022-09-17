@@ -256,7 +256,11 @@ extension CRRequest {
     
     fileprivate func jsonWriteOptions() -> JSONSerialization.WritingOptions {
         if #available(iOS 11.0, *) {
-            return [.sortedKeys, .prettyPrinted]
+            if #available(macOS 10.13, *) {
+                return [.sortedKeys, .prettyPrinted]
+            } else {
+                // Fallback on earlier versions
+            }
         }
         return .prettyPrinted
     }
